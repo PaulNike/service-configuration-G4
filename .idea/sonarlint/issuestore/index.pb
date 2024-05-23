@@ -1,8 +1,4 @@
 
-F
-test-g4-dev.properties,a\a\aab6514d95d289f6ca56954b4e23dd15482bcc2e
-G
-test-g4-prod.properties,f\0\f0831c06ba37a38e7b76a1e2a509c720a1f19d22
 N
 ms-prueba-datos-dev.properties,6\1\614a0eafa3aabb9e634914e15e54d471707948ff
 O
@@ -11,3 +7,10 @@ H
 unit-test-dev.properties,5\6\56deda483e2d198bf47d614363399cd6d5dabc3e
 I
 unit-test-prod.properties,f\e\fe405d158884fc2f77434dfcfdcf05c9f4ccfa29
+D
+ms-prueba-datos.json,3\0\304aa78beecdc9b751bbb0a2dde6048803a26ccd
+>
+unit-test.json,7\f\7f5787ad4189af0ee2b6d7aebcacac114cddad73
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
